@@ -1,0 +1,7 @@
+message.txt
+*.pdf
+.idea/
+*.iml
+.obsidian/
+
+node_modules/
